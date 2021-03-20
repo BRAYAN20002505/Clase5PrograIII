@@ -1,0 +1,13 @@
+C:\Users\PC-ELHID\Source\Repos\arbolsimple\arbolsimple\bin\Debug\netcoreapp3.1\arbolsimple.exe
+C:\Users\PC-ELHID\Source\Repos\arbolsimple\arbolsimple\bin\Debug\netcoreapp3.1\arbolsimple.deps.json
+C:\Users\PC-ELHID\Source\Repos\arbolsimple\arbolsimple\bin\Debug\netcoreapp3.1\arbolsimple.runtimeconfig.json
+C:\Users\PC-ELHID\Source\Repos\arbolsimple\arbolsimple\bin\Debug\netcoreapp3.1\arbolsimple.runtimeconfig.dev.json
+C:\Users\PC-ELHID\Source\Repos\arbolsimple\arbolsimple\bin\Debug\netcoreapp3.1\arbolsimple.dll
+C:\Users\PC-ELHID\Source\Repos\arbolsimple\arbolsimple\bin\Debug\netcoreapp3.1\arbolsimple.pdb
+C:\Users\PC-ELHID\Source\Repos\arbolsimple\arbolsimple\obj\Debug\netcoreapp3.1\arbolsimple.csprojAssemblyReference.cache
+C:\Users\PC-ELHID\Source\Repos\arbolsimple\arbolsimple\obj\Debug\netcoreapp3.1\arbolsimple.AssemblyInfoInputs.cache
+C:\Users\PC-ELHID\Source\Repos\arbolsimple\arbolsimple\obj\Debug\netcoreapp3.1\arbolsimple.AssemblyInfo.cs
+C:\Users\PC-ELHID\Source\Repos\arbolsimple\arbolsimple\obj\Debug\netcoreapp3.1\arbolsimple.csproj.CoreCompileInputs.cache
+C:\Users\PC-ELHID\Source\Repos\arbolsimple\arbolsimple\obj\Debug\netcoreapp3.1\arbolsimple.dll
+C:\Users\PC-ELHID\Source\Repos\arbolsimple\arbolsimple\obj\Debug\netcoreapp3.1\arbolsimple.pdb
+C:\Users\PC-ELHID\Source\Repos\arbolsimple\arbolsimple\obj\Debug\netcoreapp3.1\arbolsimple.genruntimeconfig.cache
